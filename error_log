@@ -1,0 +1,17 @@
+[15-Sep-2015 19:20:51 America/New_York] PHP Warning:  Module 'Phar' already loaded in Unknown on line 0
+[15-Sep-2015 19:21:13 America/New_York] PHP Warning:  Module 'Phar' already loaded in Unknown on line 0
+[15-Sep-2015 19:21:17 America/New_York] PHP Warning:  Module 'Phar' already loaded in Unknown on line 0
+[15-Sep-2015 19:32:46 America/New_York] PHP Warning:  Module 'Phar' already loaded in Unknown on line 0
+[15-Sep-2015 19:32:54 America/New_York] PHP Warning:  Module 'Phar' already loaded in Unknown on line 0
+[15-Sep-2015 19:32:54 America/New_York] PHP Fatal error:  Call to undefined method verificarDominio::__parent() in /home/hosdoma/public_html/src/clases/verificarDominio.php on line 8
+[15-Sep-2015 19:34:06 America/New_York] PHP Warning:  Module 'Phar' already loaded in Unknown on line 0
+[15-Sep-2015 19:34:06 America/New_York] PHP Fatal error:  Call to a member function isAvailable() on a non-object in /home/hosdoma/public_html/src/clases/verificarDominio.php on line 14
+[15-Sep-2015 19:35:13 America/New_York] PHP Warning:  Module 'Phar' already loaded in Unknown on line 0
+[15-Sep-2015 19:35:46 America/New_York] PHP Warning:  Module 'Phar' already loaded in Unknown on line 0
+[15-Sep-2015 19:36:04 America/New_York] PHP Warning:  Module 'Phar' already loaded in Unknown on line 0
+[15-Sep-2015 19:37:14 America/New_York] PHP Warning:  Module 'Phar' already loaded in Unknown on line 0
+[15-Sep-2015 19:37:35 America/New_York] PHP Warning:  Module 'Phar' already loaded in Unknown on line 0
+[15-Sep-2015 20:35:21 America/New_York] PHP Warning:  Module 'Phar' already loaded in Unknown on line 0
+[15-Sep-2015 20:35:29 America/New_York] PHP Warning:  Module 'Phar' already loaded in Unknown on line 0
+[16-Sep-2015 00:20:40 America/New_York] PHP Warning:  Module 'Phar' already loaded in Unknown on line 0
+[16-Sep-2015 08:12:19 America/New_York] PHP Warning:  Module 'Phar' already loaded in Unknown on line 0
